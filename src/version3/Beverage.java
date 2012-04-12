@@ -1,7 +1,7 @@
 package version3;
 
 /**
- * The super class of all beverage implementations.
+ * The super class of all beverage implementations. 
  * 
  * @author Head First Design Patterns
  */
